@@ -3,8 +3,9 @@
  Write an algorithm for sorting using the minimum number of permutations.
  
  Projects rules   
-- The game is composed of 2 stacks named a and b. • To start with:   
-- the stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.  
+- The game is composed of 2 stacks named a and b.   
+To start with:      
+- the stack a contains a random amount of negative and/or positive numbers which cannot be duplicated.   
 - b is empty  
 - The goal is to sort in ascending order numbers into stack a.  
 - To do this you have the following operations at your disposal:   
